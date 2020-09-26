@@ -17,4 +17,5 @@ Features:-
 # Upload Posts and SignOut Feature :-
 ![UploadOptimize](https://user-images.githubusercontent.com/25646373/94348109-5994a280-0057-11eb-80a9-aa15de272662.gif)
 
-# StoryBoard and MVC Pattern ScreenShot :-
+# StoryBoard ScreenShot :-
+![Screenshot 1942-07-04 at 10 50 46 PM](https://user-images.githubusercontent.com/25646373/94348161-93fe3f80-0057-11eb-9c56-cd95e3f505ce.png)

@@ -11,5 +11,6 @@ Features:-
 # SignUp, Search Users and Follow Users :-
 ![LoginGIF](https://user-images.githubusercontent.com/25646373/94346863-306f1480-004d-11eb-9145-db6b95a74da6.gif) ![SearchAndFollow](https://user-images.githubusercontent.com/25646373/94347122-4a115b80-004f-11eb-8a2b-2bb3c9088f7f.gif)
 
-# Home Posts
+# Home Posts, Like Posts and Comment :-
+
 
